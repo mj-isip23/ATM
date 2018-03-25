@@ -30,5 +30,6 @@
 
 ![Change Pin](https://github.com/mj-isip23/ATM/blob/master/screenshots/changepin.PNG) ![Change Pin](https://github.com/mj-isip23/ATM/blob/master/screenshots/changepin2.PNG) ![Change Pin](https://github.com/mj-isip23/ATM/blob/master/screenshots/changepin3.PNG) ![Change Pin](https://github.com/mj-isip23/ATM/blob/master/screenshots/changepin4.PNG)
 
+### *"Quit"*
 
-
+![Quit](https://github.com/mj-isip23/ATM/blob/master/screenshots/withdrawal.PNG)
